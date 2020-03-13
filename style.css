@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background: #e5d8ce;
+  background: #eaebe6;
   color: #1a2e33;
 }
 
@@ -27,5 +27,5 @@ a:visited {
 
 a:hover {
   background: #1a2e33;
-  color: #e5d8ce;
+  color: #eaebe6;
 }
